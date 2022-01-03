@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PortalController</string>
+
+    <string name="screen">screen</string>
+    <string name="back">back</string>
+    <string name="home">home</string>
+    <string name="recent_apps">recent apps</string>
+    <string name="volume_down">volume down</string>
+    <string name="volume_up">volume up</string>
+    <string name="lock_screen">lock screen</string>
+    <string name="no_active_hosts_found">No active hosts found, try refreshing</string>
+
+    <string name="your_id">Your ID</string>
+    <string name="stream_preview">Stream preview</string>
+    <string name="stream">Stream</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
+    <string name="acc_message">Please enable Portal service under Accessibility settings</string>
+    <string name="control_this_device">Control this device</string>
+    <string name="control_other_devices">Control other devices</string>
+</resources>
