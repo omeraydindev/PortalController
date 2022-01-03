@@ -2,4 +2,4 @@
 Source of the node.js server.
 
 ## How it works
-![How it works](serverBackend/howitworks.png)
+![How it works](howitworks.png)
